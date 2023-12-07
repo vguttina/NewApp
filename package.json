@@ -21,6 +21,7 @@
     "express": "^4"
   },
   "devDependencies": {
+    "@sap/cds-dk"
     "@sap/ux-specification": "^1.96.4"
   },
   "sapux": [
